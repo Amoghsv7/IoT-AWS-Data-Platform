@@ -1,0 +1,14 @@
+{
+  "source_dataset": "UCI_Single_Elder_Home_Monitoring",
+  "source_dataset_id": 799,
+  "input_records": 416153,
+  "clean_records": 416153,
+  "quarantined_records": 0,
+  "count_reconciles": true,
+  "invalid_timestamp_records": 0,
+  "invalid_measurement_records": 0,
+  "intervals_over_60_seconds": 31,
+  "maximum_observed_gap_seconds": 166398.560293,
+  "timestamp_standard": "UTC",
+  "physical_device_id_available_in_source": false
+}
